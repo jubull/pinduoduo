@@ -6,9 +6,9 @@
  * Time: 15:05.
  */
 
-namespace Justmd5\PinDuoDuo\Oauth;
+namespace jubull\PinDuoDuo\Oauth;
 
-use Justmd5\PinDuoDuo\AccessToken as BaseAccessToken;
+use jubull\PinDuoDuo\AccessToken as BaseAccessToken;
 use Symfony\Component\HttpFoundation\Request;
 
 class AccessToken extends BaseAccessToken

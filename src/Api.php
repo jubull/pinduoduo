@@ -6,7 +6,7 @@
  * Time: 15:05.
  */
 
-namespace Justmd5\PinDuoDuo;
+namespace jubull\PinDuoDuo;
 
 use Hanson\Foundation\AbstractAPI;
 
