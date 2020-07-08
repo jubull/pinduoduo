@@ -1,5 +1,5 @@
 {
-    "name": "justmd5/pinduoduo-sdk",
+    "name": "jubull/pinduoduo",
     "description": "拼多多API SDK【拼多多开放平台】.",
     "type": "library",
     "license": "MIT",
@@ -13,13 +13,13 @@
     ],
     "authors": [
         {
-            "name": "丁海军",
-            "email": "heyjun2012@gmail.com"
+            "name": "jubull",
+            "email": "1373602636@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Justmd5\\PinDuoDuo\\": "src/"
+            "jubull\\PinDuoDuo\\": "src/"
         }
     },
     "require": {
